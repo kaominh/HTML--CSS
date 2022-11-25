@@ -1,3 +1,8 @@
-#Over300 {
+.Over300 {
+    align-items: center;
     color: green;
+}
+.Over1000{
+    align-items: center;
+    color: red;
 }
