@@ -1,0 +1,11 @@
+.board-row {
+  display: flex;
+  justify-items: auto;
+}
+.square {
+  height: 33px;
+  width: 33px;
+  align-items: center;
+  font-size: large;
+  font-weight: bold;
+}
